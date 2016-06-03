@@ -19,7 +19,7 @@ I hope that by making my notes public others might be able to start web developm
 - [x] Plug Routing [Example](https://github.com/CrowdHailer/baobab.ex)
 - [x] Plain EEX templates
 - [x] File Upload with plug
-- [ ] Event Sourcing
+- [ ] Event Sourcing, experiments in this [repo](https://github.com/CrowdHailer/event-sourcing.elixir)
 - [ ] SQL database access libraries
 - [ ] Http client libraries
 - [ ] Form objects, follow up to [vulcanize in Ruby](https://github.com/CrowdHailer/vulcanize)
