@@ -22,8 +22,11 @@ I hope that by making my notes public others might be able to start web developm
 - [ ] Event Sourcing
 - [ ] SQL database access libraries
 - [ ] Http client libraries
+- [ ] Form objects, follow up to [vulcanize in Ruby](https://github.com/CrowdHailer/vulcanize)
 - [ ] Umbrella structure for bounded contexts
 - [ ] CRDT's for distributed event sourcing, including offline browsers as peer
+- [ ] Dialyzer
+- [ ] Domain type library, follow up to [Typtanic in Ruby](https://github.com/CrowdHailer/typetanic)
 - [ ] Domain Driven Design without Objects, follow up to this [post](http://insights.workshop14.io/2015/08/20/domain-driven-design-where-the-real-value-lies.html)
 - [ ] Capability Objects, follow up to this [post](http://insights.workshop14.io/2016/05/01/purify-your-programs-with-capability-objects.html)
 - [ ] Mustache templates
