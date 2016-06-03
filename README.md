@@ -10,7 +10,7 @@ Key reasons for this choice are immutable data structures only, a fantastic foun
 
 This repo will form the reference for all my investigation into Elixir.
 It is a curated todo list of topics I want to look at (If you think I have missed any do let me know).
-My goal is to use Elixir for development as soon as possible as I think it is a great language.
+My goal is to use Elixir for web development as soon as possible as I think it is a great language.
 I hope that by making my notes public others might be able to start web development with Elixir sooner.
 
 ### The Giant Todo
