@@ -25,6 +25,7 @@ I hope that by making my notes public others might be able to start web developm
 - [ ] Form objects, follow up to [vulcanize in Ruby](https://github.com/CrowdHailer/vulcanize)
 - [ ] Umbrella structure for bounded contexts
 - [ ] CRDT's for distributed event sourcing, including offline browsers as peer
+- [ ] logging/monitoring
 - [ ] Dialyzer
 - [ ] Domain type library, follow up to [Typtanic in Ruby](https://github.com/CrowdHailer/typetanic)
 - [ ] Domain Driven Design without Objects, follow up to this [post](http://insights.workshop14.io/2015/08/20/domain-driven-design-where-the-real-value-lies.html)
@@ -33,4 +34,4 @@ I hope that by making my notes public others might be able to start web developm
 - [ ] Email service with tuple modules
 - [ ] Email letter opener in test
 - [ ] Purified tests with injected logger and global activities
-- [ ] Hot code uploads
+- [ ] Hot code reloading with releases
