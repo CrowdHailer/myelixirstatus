@@ -34,5 +34,6 @@ I hope that by making my notes public others might be able to start web developm
 - [ ] Mustache templates
 - [ ] Email service with tuple modules
 - [ ] Email letter opener in test
+- [ ] Cloud based load testing.
 - [ ] Purified tests with injected logger and global activities
 - [ ] Hot code reloading with releases
