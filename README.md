@@ -24,7 +24,7 @@ I hope that by making my notes public others might be able to start web developm
 - [ ] Http client libraries
 - [ ] JSON API look at relax, read [thoughtbot article](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 - [ ] Form objects, follow up to [vulcanize in Ruby](https://github.com/CrowdHailer/vulcanize)
-- [ ] Umbrella structure for bounded contexts
+- [x] Umbrella structure for bounded contexts
 - [ ] CRDT's for distributed event sourcing, including offline browsers as peer
 - [ ] logging/monitoring
 - [ ] Dialyzer
