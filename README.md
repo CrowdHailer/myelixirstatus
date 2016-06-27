@@ -37,3 +37,4 @@ I hope that by making my notes public others might be able to start web developm
 - [ ] Cloud based load testing.
 - [ ] Purified tests with injected logger and global activities
 - [ ] Hot code reloading with releases
+- [ ] Is containerisation appropriate? look at rkt, [tectonic](https://tectonic.com/) and [quay](https://quay.io)
