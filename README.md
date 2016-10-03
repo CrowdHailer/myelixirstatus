@@ -38,3 +38,4 @@ I hope that by making my notes public others might be able to start web developm
 - [ ] Purified tests with injected logger and global activities
 - [ ] Hot code reloading with releases
 - [ ] Is containerisation appropriate? look at rkt, [tectonic](https://tectonic.com/) and [quay](https://quay.io)
+- [ ] Lessons on infrastructure at [katacoda](https://www.katacoda.com/)
