@@ -19,15 +19,15 @@ I hope that by making my notes public others might be able to start web developm
 - [x] Plug Routing [Example](https://github.com/CrowdHailer/baobab.ex)
 - [x] Plain EEX templates
 - [x] File Upload with plug
-- [ ] Event Sourcing, experiments in this [repo](https://github.com/CrowdHailer/event-sourcing.elixir)
-- [ ] SQL database access libraries
-- [ ] Http client libraries
+- [x] Event Sourcing, experiments in this [repo](https://github.com/CrowdHailer/event-sourcing.elixir) looks good, will move onto no db architecture here
+- [x] SQL database access libraries, mobius
+- [x] Http client libraries, httpoison (might extend to raxx client)
 - [ ] JSON API look at relax, read [thoughtbot article](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 - [ ] Form objects, follow up to [vulcanize in Ruby](https://github.com/CrowdHailer/vulcanize) https://bitbucket.org/peter_saxton/goodlord/src/375820183e960c0eb58626606a5e53e2466241af/apps/web/test/web/referencing/create_requirement_form_test.exs?at=referencing-pages&fileviewer=file-view-default
 - [x] Umbrella structure for bounded contexts
 - [ ] CRDT's for distributed event sourcing, including offline browsers as peer
 - [ ] logging/monitoring
-- [ ] Dialyzer
+- [x] Dialyzer
 - [ ] Domain type library, follow up to [Typtanic in Ruby](https://github.com/CrowdHailer/typetanic)
 - [ ] Domain Driven Design without Objects, follow up to this [post](http://insights.workshop14.io/2015/08/20/domain-driven-design-where-the-real-value-lies.html)
 - [ ] Capability Objects, follow up to this [post](http://insights.workshop14.io/2016/05/01/purify-your-programs-with-capability-objects.html)
